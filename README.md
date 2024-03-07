@@ -6,7 +6,7 @@ This project will learn to create an AI Chatbot to analyze a PDF file that you u
 ### Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Files using LLM from IBM Skill Network
 
 # Final Output
-![alt text](?raw=true)
+![alt text](https://github.com/MeilaAdisty/Build-a-Chatbot-to-Analyze-PDF-Files-using-LLM/blob/main/image.png?raw=true)
 
 ## Mentee Info 👧
 * Name    : Meila Adisty Putri
